@@ -4,7 +4,7 @@ I graduated with a master's degree at the University of Essex in one year. I got
 
 1. [Machine Learning](https://github.com/micsupasun/university_of_essex/tree/main/machine_learning) predicts regression and classification multiple models. 
 2. [Neural Networks and Deep Learning](neural_networks_and_deep_learning) predict data about electroencephalograms with Deep learning models such as CNN and LSTM models. 
-3. [Data Science and Decision Making](data_science_and_decision_making) predict yield date with a regression model. 
+3. [Data Science and Decision Making](data_science_and_decision_making) predict yield date with a regression model. In addition, in this course, various sciences about AI are also taught, including numpy, bootstrapping_permutation_tests, RandomForestClassifier_validation, Causal_inference, KMeansClustering_vitualization, recommendation_movie, cnn_image, rnn_forcast, advanced_transfer_learning
 4. [Big Data for Computational Finance](https://github.com/micsupasun/university_of_essex/tree/main/big_data_for_computational_finance) predicts fraud detection with the classification of both machine learning and deep learning. 
 5. [Intelligent Systems and Robotics](intelligent_systems_and_robotics) control robots with PID controllers and fuzzy. 
 6. [Text Analytics](text_analytics), which predicts Extreme Multilabel Text Classification fixes problems in applications in automatic tagging and recommendation systems of web-scale documents.  
