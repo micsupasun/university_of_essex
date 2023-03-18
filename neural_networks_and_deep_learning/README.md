@@ -9,6 +9,7 @@
 
 # Lab File
 This is all the lab file create Logistic Model and neural network and basic deep learning model
+
 [lab1.ipynb](https://github.com/micsupasun/university_of_essex/blob/main/neural_networks_and_deep_learning/lab1.ipynb) is the first lab file practice essential python files
 
 [lab2.ipynb](https://github.com/micsupasun/university_of_essex/blob/main/neural_networks_and_deep_learning/lab2.ipynb) is the second lab file to create scaling and rotation
