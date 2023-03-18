@@ -5,6 +5,7 @@ Aims of this assignment are:
 1. to learn to identify machine learning techniques appropriate for a particular practical problem;
 2. to undertake a comparative evaluation of several machine learning procedures when applied to the specific problem.
 
+# Assigment Documentation
 [CE802_Assignment_2022.pdf](https://github.com/micsupasun/university_of_essex/blob/main/machine_learning/CE802_Assignment_2022.pdf) is the homework file I got from a professor teaching machine learning.
 
 # Predict classification model
