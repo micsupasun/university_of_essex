@@ -8,7 +8,7 @@
 [CE889-SP Assignment Brief 2022.pdf](https://github.com/micsupasun/university_of_essex/blob/main/neural_networks_and_deep_learning/CE889-SP%20Assignment%20Brief%202022.pdf) is the homework file I got from a professor teaching Deep learning.
 
 # Lab File
-This is all the lab file create Logistic Model and neural network and basic deep learning model
+This is all the lab files that create Logistic Model and neural network, and basic deep learning model
 
 [lab1.ipynb](https://github.com/micsupasun/university_of_essex/blob/main/neural_networks_and_deep_learning/lab1.ipynb) is the first lab file practice essential python files
 
@@ -25,9 +25,9 @@ This is all the lab file create Logistic Model and neural network and basic deep
 
 1. clean data
 2. create activation(sigmoid, tanh, relu, leaky relu), 
-3. create a function forward propagation, 
+3. create a function Forward propagation, 
 4. create loss function, 
 5. create backward propagation.
 6. train model with k-fold cross validation
-7. fine tuning parameter to improve accuracy with grid search and random search
+7. fine-tuning parameter to improve accuracy with grid search and the random search
 8. predict and show accuracy by classification report and confusion matrix and accuracy
