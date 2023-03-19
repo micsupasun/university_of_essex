@@ -2,6 +2,35 @@
 # Lab File
 This is all files to work many thing including:
 
+# project objectives
+The aim of this project is to develop a system that can help growers plan ahead for their crops by giving them information about the expected size of the crops in a future date. Using this system, they should be able to talk to supermarkets about when and how much produce they can sell them, resulting in a measurable gain for the growers’ business. To do this, they have given you historical data from previous crops, as well as weather data.
+
+# Assignment File
+
+[project_agrotech](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/project_agrotech/assignment_two/v2.ipynb)is the assignment file to work including:
+
+1. Import Library
+
+2. Import Data
+
+3. Data Preprocessing
+
+4. Data Cleansing
+
+5. Exploratory Data Analysis
+
+6. Feature Engineering
+
+7. train_test_split
+
+8. Predict multiple model to find the best parameter
+
+9. Evaluation best model by grid search fine tuning paramater
+
+10. Metric accuracy, confution matrix
+
+11. Feature importance
+
 [lab 1 numpy](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/lab1_numpy/lab1.ipynb) is the file used to learn numpy.
 
 [lab2_bootstrapping_permutation_tests](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/lab2_bootstrapping_permutation_tests/lab_2.ipynb) is the file used to learn bootstrapping permutation tests
@@ -146,33 +175,6 @@ Steps in this lab:
 
 8. save model
 
-# project objectives
-The aim of this project is to develop a system that can help growers plan ahead for their crops by giving them information about the expected size of the crops in a future date. Using this system, they should be able to talk to supermarkets about when and how much produce they can sell them, resulting in a measurable gain for the growers’ business. To do this, they have given you historical data from previous crops, as well as weather data.
 
-# Assignment File
-
-[project_agrotech](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/project_agrotech/assignment_two/v2.ipynb)is the assignment file to work including:
-
-1. Import Library
-
-2. Import Data
-
-3. Data Preprocessing
-
-4. Data Cleansing
-
-5. Exploratory Data Analysis
-
-6. Feature Engineering
-
-7. train_test_split
-
-8. Predict multiple model to find the best parameter
-
-9. Evaluation best model by grid search fine tuning paramater
-
-10. Metric accuracy, confution matrix
-
-11. Feature importance
 
 
