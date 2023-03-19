@@ -31,6 +31,8 @@ The aim of this project is to develop a system that can help growers plan ahead 
 
 11. Feature importance
 
+# Study Lab
+
 [lab 1 numpy](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/lab1_numpy/lab1.ipynb) is the file used to learn numpy.
 
 [lab2_bootstrapping_permutation_tests](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/lab2_bootstrapping_permutation_tests/lab_2.ipynb) is the file used to learn bootstrapping permutation tests
