@@ -7,7 +7,7 @@ The aim of this project is to develop a system that can help growers plan ahead 
 
 # Assignment File
 
-[project_agrotech](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/project_agrotech/assignment_two/v2.ipynb)is the assignment file to work including:
+[project_agrotech](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/project_agrotech/assignment_two/v2.ipynb) is the assignment file to work including:
 
 1. Import Library
 
