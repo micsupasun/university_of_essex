@@ -27,7 +27,7 @@ The aim of this project is to develop a system that can help growers plan ahead 
 
 9. Evaluation best model by grid search fine tuning paramater
 
-10. Metric accuracy, confution matrix
+10. Metric by Root mean square error (RMSE)
 
 11. Feature importance
 
