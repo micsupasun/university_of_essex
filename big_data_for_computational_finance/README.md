@@ -1,4 +1,13 @@
-# university_of_essex
+# Big data for Computational finance
+## Project objectives
+1. I write a report research paper in applications of machine learning for computational finance.
+2. prediction fraud detection
 
+## Assigment Documentation
+[CF969-7-SU-CO - Assignment.pdf](https://github.com/micsupasun/university_of_essex/blob/main/big_data_for_computational_finance/CF969-7-SU-CO%20-%20Assignment.pdf) is the homework file I got from a professor teaching Big data for Computational finance.
 
+## Assignment File
 
+[CF969_7_SU_Big_Data_for_Computational_Finance.pdf]() is the assignment report about Forecasting and trading cryptocurrencies with machine learning under changing market conditions
+
+[fraud_detection.ipynb]() Nowadays, companies that accept credit card payments need to be able to verify whether each transaction is a fraud or not in transaction. so that customers are not charged for the products they have purchased. However, it is not easy to verify all transactions by human hand. from the survey results It took financial institutions over 40 days to detect fraud. And fraud also affects banks that offer online payment services, with 20 percent of customers changing their banks after fraud issues are encountered. This is why fraud detection with machine learning and deep learning is so important because AI is faster than humans and has less errors. Plus, you don't have to pay for employees to check each transaction. make it check the fraud transactions quickly and accurately. One of the reasons this research is difficult to do is because the number of fraudulent transactions is extremely low. which if the prediction is wrong The confidence of customers with the company will be reduced until they can move to another company. In fact, it is impossible to predict with 100% accuracy. But we should predict more correctly than human guesses. In principle, we think this dataset contains 284,807 transactions, with 492 percent fraudulent transactions. 0.1727485631 percent. If a human guessed that the data was not cheating at all, it would have an accuracy of about 99.8272514369 percent(computed from the total number minus the percentage of fraudulent transactions = 100 -0.1727485631 percent.), which is very accurate. Previous research, including in kaggle, has shown a fairly accurate prediction, with the most common model being the Convolution Neural Network which is a Deep Learning. which uses only one model. it can be seen that other research doesn't use model machine learning. This research therefore explores several models with machine learning. These include Decision Tree, Logistic Regression, Random Forest, K-Nearest Neighbor, Support Vector Machine, naive_bayes, XGBoost, Stochastic Gradient Descent, Multilayer perceptron, and Deep Learning Convolution Neural Network, a total of 10 models.
