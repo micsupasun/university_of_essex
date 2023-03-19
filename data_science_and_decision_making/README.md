@@ -4,7 +4,7 @@ This is all files to work many thing including:
 
 [lab 1 numpy](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/lab1_numpy/lab1.ipynb) is the file used to learn numpy.
 
-[lab2_bootstrapping_permutation_tests](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/lab2_bootstrapping_permutation_tests/lab_2.ipynb) คือไฟลืที่ใช้สำหรับการเรียนรู้bootstrapping permutation tests
+[lab2_bootstrapping_permutation_tests](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/lab2_bootstrapping_permutation_tests/lab_2.ipynb) is the file used to learn bootstrapping permutation tests
 
 [lab3_RandomForestClassifier_validation](https://github.com/micsupasun/university_of_essex/blob/main/data_science_and_decision_making/lab3_RandomForestClassifier_validation/facebook.ipynb) is the file used for learning bootstrapping permutation tests including:
 
