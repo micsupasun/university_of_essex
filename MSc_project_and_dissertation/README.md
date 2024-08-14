@@ -13,3 +13,5 @@ my dissertation name is Comparative speech emotion recognition in multiple model
 
 [ser_diagram.png](https://github.com/micsupasun/university_of_essex/blob/main/MSc_project_and_dissertation/ser_diagram.png) is the diagram process in my dissertation.
 
+<!-- []()
+presentation dissertation msc.pdf -->
